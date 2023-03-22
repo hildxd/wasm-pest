@@ -1,0 +1,8 @@
+<script>
+    WebAssembly.instantiateStreaming(fetch(
+        'target/wasm32-unknown-unknown/release/wasm_pest.wasm'
+    )).then(({instance}) => {
+        console.log(instance)
+        console.log(instance.exports.add(11, 22))
+    })
+</script>

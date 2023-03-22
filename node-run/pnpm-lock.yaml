@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  '@wasmer/wasi': ^1.2.2
+
+dependencies:
+  '@wasmer/wasi': 1.2.2
+
+packages:
+
+  /@wasmer/wasi/1.2.2:
+    resolution: {integrity: sha512-39ZB3gefOVhBmkhf7Ta79RRSV/emIV8LhdvcWhP/MOZEjMmtzoZWMzt7phdKj8CUXOze+AwbvGK60lKaKldn1w==}
+    dev: false

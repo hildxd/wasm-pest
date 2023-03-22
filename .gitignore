@@ -1,0 +1,8 @@
+/target
+/Cargo.lock
+node_modules
+
+# add golang
+*.exe
+*.test
+*.out

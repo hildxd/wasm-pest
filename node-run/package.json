@@ -1,0 +1,16 @@
+{
+  "name": "node-run",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wasmer/wasi": "^1.2.2"
+  }
+}
