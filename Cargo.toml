@@ -1,5 +1,5 @@
 [package]
-name = "wasm-pest"
+name = "wasm_pest"
 version = "0.1.0"
 edition = "2021"
 authors = ["sunlee <hildxd@outlook.com>"]
